@@ -1,0 +1,5 @@
+matplotlib==3.6.3
+pandas==1.5.3
+plotly_express==0.4.1
+scikit_learn==1.2.1
+shap==0.41.0
