@@ -7,6 +7,6 @@ Repository zum [Sonderheft-Artikel](https://www.heise.de/select/ix/2023/13/23020
 - Am Anfang des Machine-Learning-Prozesses stehen wichtige Entscheidungen: das Bereinigen der Daten und die Auswahl des passenden Algorithmus für Daten und Fragestellung.
 - Probleme wie Overfitting oder Information Leakage lassen sich leicht verhindern, wenn man ein paar Grundsätze beachtet.
 
-## Setup
+# Setup
 - Um das Notebook `pipeline.ipynb` oder alternativ das Skript `pipeline.ipynb` auszuführen, werden die Bibliotheken aus der `requirements.txt`-Datei benötigt. Eine Installation kann beispielsweise mit dem Befehl `pip install -r requirements.txt` erfolgen.
 - Die Datei mit den Daten sollte als `vehicles.csv` im Ordner `data` abgespeichert werden. Die Datei kann von [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) heruntergeladen werden.
